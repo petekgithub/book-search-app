@@ -1,0 +1,23 @@
+.grid-wrapper {
+	display: inline-block;
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+.grid-wrapper img {
+	max-height:290px;
+}
+
+.grid-wrapper .description {
+	height: 100px;
+    overflow: hidden;
+}
+
+.grid-wrapper .header {
+	height: 27px;
+    overflow: hidden;
+}
+
+.extra.content {
+	text-align:center;
+}
